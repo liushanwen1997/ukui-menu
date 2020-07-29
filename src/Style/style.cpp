@@ -530,4 +530,5 @@ void Style::initWidStyle()
         SideBarSpaceIconText=10;
         SideBarSpaceBetweenItem=16;
     }
+    //shasfkjsagkjsa
 }
